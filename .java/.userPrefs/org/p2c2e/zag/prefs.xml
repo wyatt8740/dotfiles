@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="frame-height" value="700"/>
+  <entry key="frame-loc-x" value="439"/>
+  <entry key="frame-loc-y" value="27"/>
+  <entry key="frame-maximized" value="true"/>
+  <entry key="frame-width" value="600"/>
+</map>

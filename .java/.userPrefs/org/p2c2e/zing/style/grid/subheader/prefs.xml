@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="back-color" value="13421772"/>
+  <entry key="font-italic" value="false"/>
+  <entry key="font-size" value="14"/>
+  <entry key="font-underline" value="false"/>
+  <entry key="font-weight" value="2.0"/>
+  <entry key="justification" value="0"/>
+  <entry key="left-indent" value="0"/>
+  <entry key="paragraph-indent" value="0"/>
+  <entry key="right-indent" value="0"/>
+  <entry key="text-color" value="0"/>
+  <entry key="typeface" value="Monospaced"/>
+</map>
