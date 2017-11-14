@@ -162,7 +162,8 @@ bordercolor   000000          # border line color
 # caretcolor    000000          # input caret color
 caretcolor    cccccc          # input caret color
 #linkcolor     000060          # hyperlink color
-linkcolor     80a0e0          # hyperlink color
+#linkcolor     80a0e0          # hyperlink color
+linkcolor     00c7ff
 # morecolor     006000          # more prompt color
 # morecolor     80e080          # more prompt color
 # morecolor     808080          # more prompt color
